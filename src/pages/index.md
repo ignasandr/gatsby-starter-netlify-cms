@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee. No joke.
+title: Great coffee. No joke?
 image: /img/flavor_wheel.jpg
 heading: Great. Just great
 subheading: Support sustainable farmers
